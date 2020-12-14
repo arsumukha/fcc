@@ -1,0 +1,53 @@
+.content{
+    font-family: "Josefin Sans";
+    max-width: 600px;
+    text-align: left;
+    margin: 0 auto 25px auto;
+}
+
+img{
+    display:block;
+    margin-right: auto;
+    margin-left: auto;
+    width:100%;
+    height: auto;
+}
+
+figcaption{
+    text-align: center;
+}
+.h1{
+    text-align: center;
+    text-shadow: 0px 0px #000000;
+    font-size: 45px;
+    font-weight:700;
+}
+h3{text-align: center;
+font-family: "Josefin Sans";
+}
+html{
+    background-color: #eee;
+}
+.heading{
+    padding: 5px 5px 5px 5px;
+    box-shadow:2px 2px 2px 2px #000000;
+    background-color:#fbeda7;
+    font-family: 'Josefin Sans';
+}
+main{
+    padding: 2px 2px 2px 2px;
+    border-width:2px;
+    border-color: #000000;
+    border-style: groove;
+    background:linear-gradient(180deg,#fae994,#f4d11f);
+    font-family: "Josefin Sans";
+}
+figure{
+    border-color: black;
+    border-style: double;
+    border-width: 0px 0px 2px 0px;
+    padding: 5px;
+}
+.h1:hover{
+    text-shadow: 1px 0px #000000;
+}
