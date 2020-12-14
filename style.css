@@ -1,8 +1,9 @@
 .content{
     font-family: "Josefin Sans";
-    max-width: 600px;
+    max-width: 800px;
     text-align: left;
     margin: 0 auto 25px auto;
+    line-height: 1.3em;
 }
 
 img{
@@ -39,7 +40,7 @@ main{
     border-width:2px;
     border-color: #000000;
     border-style: groove;
-    background:linear-gradient(180deg,#fae994,#f4d11f);
+    background:linear-gradient(180deg,#faedab,#f4d11f);
     font-family: "Josefin Sans";
 }
 figure{
@@ -50,4 +51,10 @@ figure{
 }
 .h1:hover{
     text-shadow: 1px 0px #000000;
+}
+p{
+    font-size:16px;
+}
+a:hover{
+    color:red;
 }
