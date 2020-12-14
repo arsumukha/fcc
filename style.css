@@ -58,3 +58,9 @@ p{
 a:hover{
     color:red;
 }
+footer{
+    padding: 2px;
+    color:whitesmoke;
+    background-color: #000000;
+    font-family: "Josefin Sans";
+}
